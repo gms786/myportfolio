@@ -1,6 +1,7 @@
 h1 {
     color: brown;
-    font-size: large;
+    font-size: larger;
+    font-weight: bolder;
     text-align: center;
 }
 
