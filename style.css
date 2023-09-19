@@ -1,8 +1,9 @@
 h1 {
     color: brown;
-    font-size: larger;
+    font-size: 48px;
     font-weight: bolder;
     text-align: center;
+    background: #272626;
 }
 
 p {
